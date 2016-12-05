@@ -33,12 +33,12 @@
   "dependencies": {
     "bootstrap-fonts-complete": "^1.0.0",
     "directory-fonts-complete": "^1.0.0",
-    "google-fonts-complete": "^1.0.0",
-    "postcss": "^5.0.12"
+    "google-fonts-complete": "sylvainbaronnet/google-fonts-complete",
+    "postcss": "^5.2.6"
   },
   "devDependencies": {
     "chai": "^3.4.1",
-    "gulp": "^3.9.0",
+    "gulp": "^3.9.1",
     "gulp-eslint": "^1.1.1",
     "gulp-mocha": "^2.2.0"
   },
