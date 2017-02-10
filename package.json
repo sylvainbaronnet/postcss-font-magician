@@ -1,6 +1,6 @@
 {
   "name": "postcss-font-magician",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "PostCSS plugin that magically generates all the @font-face rules",
   "keywords": [
     "postcss",
@@ -34,7 +34,7 @@
     "bootstrap-fonts-complete": "^1.0.0",
     "directory-fonts-complete": "^1.1.0",
     "google-fonts-complete": "sylvainbaronnet/google-fonts-complete",
-    "postcss": "^5.2.11"
+    "postcss": "^5.2.12"
   },
   "devDependencies": {
     "chai": "^3.5.0",
